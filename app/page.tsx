@@ -6,3 +6,6 @@ export default function Home() {
     <h5>HELLO</h5>
   )
 }
+<body>
+  next-projecct
+</body>

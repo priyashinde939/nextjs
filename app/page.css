@@ -1,6 +1,8 @@
 body {
     text-align: center;
     color: bisque;
-    font-family: Copperplate, Papyrus, fantasy;
+}
+.h5 {
+       font-family: Copperplate, Papyrus, fantasy;
 }
  
